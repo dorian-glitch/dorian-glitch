@@ -1,9 +1,9 @@
-![Dorian Ripoche — Réseaux & Cybersécurité](assets/banniere-crew-v3.png)
+![Dorian Ripoche - Réseaux & Cybersécurité](assets/banniere-crew-v4.png)
 
 ## Bonjour 👋
 
 Étudiant en **2ᵉ année de BUT Réseaux et Télécommunications**, parcours **Cybersécurité**,
-à l'IUT d'Auxerre — Université de Bourgogne.
+à l'IUT d'Auxerre - Université de Bourgogne.
 
 Ce qui m'intéresse : construire une infrastructure réseau, puis chercher par où elle casse.
 
@@ -21,7 +21,7 @@ ToIP, WiFi, plan d'adressage, chiffrage du matériel et estimation de la consomm
 Maquette validée sous Cisco Packet Tracer.
 
 **[Gestion des inscriptions à la remise des diplômes](https://github.com/dorian-glitch/SAE204-Projet-Integratif-Remise-Diplomes-BUT-Auxerre)**
-Application web pour la cérémonie du campus d'Auxerre — HTML, CSS, PHP, MySQL.
+Application web pour la cérémonie du campus d'Auxerre - HTML, CSS, PHP, MySQL.
 
 **[Évolution de la production d'électricité](https://github.com/dorian-glitch/SA-1.05--Projet-n-6)**
 Traitement d'un jeu de données et visualisations en Python : cartes, courbes, histogrammes.
@@ -42,11 +42,11 @@ Parsing d'un relevé de vol et tracé des températures en fonction de l'altitud
 
 ### Certifications
 
-- **CCNA : Switching, Routing & Wireless Essentials** — Cisco
-- **CCNA : Introduction to Networks** — Cisco
-- **Digital Safety and Security Awareness** — Cisco
-- **MOOC SecNumacadémie** — ANSSI
-- **PIX** — niveaux 1 à 4
+- **CCNA : Switching, Routing & Wireless Essentials** - Cisco
+- **CCNA : Introduction to Networks** - Cisco
+- **Digital Safety and Security Awareness** - Cisco
+- **MOOC SecNumacadémie** - ANSSI
+- **PIX** - niveaux 1 à 4
 
 [Mes certifications sur Credly](https://www.credly.com/users/dorian-ripoche) ·
 [LinkedIn](https://www.linkedin.com/in/dorian-ripoche-500819357/)
