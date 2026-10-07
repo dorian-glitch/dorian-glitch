@@ -1,4 +1,4 @@
-![Dorian Ripoche — Réseaux & Cybersécurité](assets/banniere-equipage.png)
+![Dorian Ripoche — Réseaux & Cybersécurité](assets/banniere-crew-v3.png)
 
 ## Bonjour 👋
 
